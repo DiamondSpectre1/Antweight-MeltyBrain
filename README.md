@@ -6,3 +6,6 @@ CAD at: https://cad.onshape.com/documents/249e984842615adfc8b8828b/w/c7db2f86ab7
 
 BOM/Cart: https://docs.google.com/spreadsheets/d/1nNTRbGGS_KuisO4c58RzzcGgVzOWWuhgAdikpHYEQr4/edit?usp=sharing
 
+
+
+<img width="2300" height="1000" alt="BattleBot" src="https://github.com/user-attachments/assets/dd471f5b-65bd-4b3f-8fdb-d92ed9505935" />
