@@ -28,6 +28,5 @@ Bolt the accelerometer and power switch directly to the polycarb using M2 nuts a
 VHB tape the rest of the electrical components as securely to the base as possible. The Itsy Bitsy, tinyESCs, and receiver should be as close to the center as possible without interfering with the motors or wheels, while the heading beacon can be attached far from the center.\
 Slide the foam Fingertech wheels onto the hubs and twist the second, thinner half of the Twist Hubs to lock the wheel in place. \
 (Optional) Silicone/other grip tape applied to the wheels for better traction.\
-After this, line up the blades and 3D printed body on top of the polycarb, and finally top it off with the other polycarb plate, sandwiching them all with the M3 Nuts and Bolts. \
-
-To access the electronics, simply loosen the M3 Nut and Bolt stack and take off the top polycarb cover. \
+After this, line up the blades and 3D printed body on top of the polycarb, and finally top it off with the other polycarb plate, sandwiching them all with the M3 Nuts and Bolts.\
+To access the electronics, simply loosen the M3 Nut and Bolt stack and take off the top polycarb cover.
