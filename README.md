@@ -20,14 +20,14 @@ Lightweight Configuration (two blades removed):
 <img width="1106" height="616" alt="image" src="https://github.com/user-attachments/assets/41e7c9a2-841f-4cca-9e55-814c73dcc24d" />
 
 
-Assembly Instructions:
-Start with a polycarb cap/base piece, both are identical.
-Bolt the 3D printed motor bracket spacer and motor brackets with N20 motors in them to the polycarb base plate using M2 Nuts and Bolts.
-Attach the thick half of the FingerTech twist hubs to each shaft, and bolt down the rod to clamp them to the shafts.
-Bolt the accelerometer and power switch directly to the polycarb using M2 nuts and bolts, make sure the power switch's bolt input is facing the wall of the bot, that way a hole can be drilled for easy access later.
-VHB tape the rest of the electrical components as securely to the base as possible. The Itsy Bitsy, tinyESCs, and receiver should be as close to the center as possible without interfering with the motors or wheels, while the heading beacon can be attached far from the center.
-Slide the foam Fingertech wheels onto the hubs and twist the second, thinner half of the Twist Hubs to lock the wheel in place. 
-(Optional) Silicone/other grip tape applied to the wheels for better traction.
-After this, line up the blades and 3D printed body on top of the polycarb, and finally top it off with the other polycarb plate, sandwiching them all with the M3 Nuts and Bolts. 
+Assembly Instructions:\
+Start with a polycarb cap/base piece, both are identical.\
+Bolt the 3D printed motor bracket spacer and motor brackets with N20 motors in them to the polycarb base plate using M2 Nuts and Bolts.\
+Attach the thick half of the FingerTech twist hubs to each shaft, and bolt down the rod to clamp them to the shafts.\
+Bolt the accelerometer and power switch directly to the polycarb using M2 nuts and bolts, make sure the power switch's bolt input is facing the wall of the bot, that way a hole can be drilled for easy access later.\
+VHB tape the rest of the electrical components as securely to the base as possible. The Itsy Bitsy, tinyESCs, and receiver should be as close to the center as possible without interfering with the motors or wheels, while the heading beacon can be attached far from the center.\
+Slide the foam Fingertech wheels onto the hubs and twist the second, thinner half of the Twist Hubs to lock the wheel in place. \
+(Optional) Silicone/other grip tape applied to the wheels for better traction.\
+After this, line up the blades and 3D printed body on top of the polycarb, and finally top it off with the other polycarb plate, sandwiching them all with the M3 Nuts and Bolts. \
 
-To access the electronics, simply loosen the M3 Nut and Bolt stack and take off the top polycarb cover. 
+To access the electronics, simply loosen the M3 Nut and Bolt stack and take off the top polycarb cover. \
